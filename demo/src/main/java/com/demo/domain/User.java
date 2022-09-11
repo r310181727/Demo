@@ -18,6 +18,7 @@ public class User {
     private Map<String, String> map;
 
     public User() {
+
     }
     public User(String userName, String telNumber, List list) {
         this.list=list;
